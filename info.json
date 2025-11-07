@@ -4,7 +4,7 @@
   "title": "YAIM0425 d25b Fast crafting",
   "author": "YAIM0425",
   "factorio_version": "2.0",
-  "description": "Reduces creation time to the minimum allowed by the game. [[I accept suggestions]]",
+  "description": "Reduce crafting time to the minimum allowed by the game. [[I accept suggestions]]",
   "homepage": "https://github.com/yaim0425/YAIM0425-d24b-fast-crafting",
   "dependencies": [
     "YAIM0425-d00b-core"
