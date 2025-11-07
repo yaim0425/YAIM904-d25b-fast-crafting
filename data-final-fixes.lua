@@ -25,17 +25,17 @@ function This_MOD.start()
     --- Obtener los elementos
     This_MOD.get_elements()
 
-    -- --- Modificar los elementos
-    -- for _, spaces in pairs(This_MOD.to_be_processed) do
-    --     for _, space in pairs(spaces) do
-    --         --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
+    --- Modificar los elementos
+    for _, spaces in pairs(This_MOD.to_be_processed) do
+        for _, space in pairs(spaces) do
+            --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 
-    --         -- --- Actualizar la entidad
-    --         -- This_MOD.update_entity(space)
+            -- --- Actualizar la entidad
+            -- This_MOD.update_recipe(space)
 
-    --         --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
-    --     end
-    -- end
+            --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
+        end
+    end
 
     --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 end
@@ -145,6 +145,16 @@ function This_MOD.get_elements()
     for _, recipe in pairs(data.raw.recipe) do
         valide_recipe(recipe)
     end
+
+    --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
+end
+
+---------------------------------------------------------------------------------------------------
+
+function This_MOD.update_recipe(space)
+    --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
+
+    space.recipe.energy_required = This_MOD.energy_required
 
     --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 end
