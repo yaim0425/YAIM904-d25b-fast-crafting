@@ -36,6 +36,7 @@ Once enabled, the effect is global and immediate.
 * 🚨 This MOD **significantly breaks game balance**
 * ⚡ Crafting speed bonuses, modules, and progression become mostly irrelevant
 * ❌ Not recommended for:
+
   * Vanilla-balanced playthroughs
   * Competitive or progression-focused games
 
@@ -43,13 +44,35 @@ Once enabled, the effect is global and immediate.
 
 ## 🔗 Repository
 
-* GitHub:  
-  https://github.com/yaim0425/YAIM0425-d24b-fast-crafting
+**MOD**
+[YAIM0425 d25b Fast crafting](https://github.com/yaim0425/YAIM0425-d25b-fast-crafting)
+
+**Required**
+
+[YAIM0425 d00b Core](https://github.com/yaim0425/YAIM0425-d00b-core)
+
+---
+
+## ❤️ Support
+
+Suggestions, ideas, and balance feedback are welcome on the GitHub repository.
 
 ---
 
 ## 🖼️ Screenshots
 
-![Fast Crafting Screenshot 1](screenshot/\(1\).png)
+![Screenshot 1](https://github.com/yaim0425/YAIM0425-d25b-fast-crafting/raw/code/screenshot/(1).png)
 
----
+![Screenshot 2](https://github.com/yaim0425/YAIM0425-d25b-fast-crafting/raw/code/screenshot/(2).png)
+
+![Screenshot 3](https://github.com/yaim0425/YAIM0425-d25b-fast-crafting/raw/code/screenshot/(3).png)
+
+![Screenshot 4](https://github.com/yaim0425/YAIM0425-d25b-fast-crafting/raw/code/screenshot/(4).png)
+
+![Screenshot 5](https://github.com/yaim0425/YAIM0425-d25b-fast-crafting/raw/code/screenshot/(5).png)
+
+![Screenshot 6](https://github.com/yaim0425/YAIM0425-d25b-fast-crafting/raw/code/screenshot/(6).png)
+
+![Screenshot 7](https://github.com/yaim0425/YAIM0425-d25b-fast-crafting/raw/code/screenshot/(7).png)
+
+![Screenshot 8](https://github.com/yaim0425/YAIM0425-d25b-fast-crafting/raw/code/screenshot/(8).png)
