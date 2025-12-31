@@ -1,8 +1,8 @@
-# YAIM0425 d25b – Fast Crafting ⚡
+# YAIM904 d25b – Fast Crafting ⚡
 
 ## 📦 Description
 
-**YAIM0425 d25b – Fast Crafting** drastically reduces the crafting time of **all recipes** to the **minimum value allowed by Factorio**.
+**YAIM904 d25b – Fast Crafting** drastically reduces the crafting time of **all recipes** to the **minimum value allowed by Factorio**.
 
 This MOD is intended to remove waiting times during crafting, making gameplay faster and smoother, especially for testing, creative play, or large-scale factory setups.
 
@@ -45,11 +45,11 @@ Once enabled, the effect is global and immediate.
 ## 🔗 Repository
 
 **MOD**
-[YAIM0425 d25b Fast crafting](https://github.com/yaim0425/YAIM0425-d25b-fast-crafting)
+[YAIM904 d25b Fast crafting](https://github.com/yaim0425/YAIM904-d25b-fast-crafting)
 
 **Required**
 
-[YAIM0425 d00b Core](https://github.com/yaim0425/YAIM0425-d00b-core)
+[YAIM904 d00b Core](https://github.com/yaim0425/YAIM904-d00b-core)
 
 ---
 
@@ -61,18 +61,18 @@ Suggestions, ideas, and balance feedback are welcome on the GitHub repository.
 
 ## 🖼️ Screenshots
 
-![Screenshot 1](https://github.com/yaim0425/YAIM0425-d25b-fast-crafting/raw/code/screenshot/(1).png)
+![Screenshot 1](https://github.com/yaim0425/YAIM904-d25b-fast-crafting/raw/code/screenshot/(1).png)
 
-![Screenshot 2](https://github.com/yaim0425/YAIM0425-d25b-fast-crafting/raw/code/screenshot/(2).png)
+![Screenshot 2](https://github.com/yaim0425/YAIM904-d25b-fast-crafting/raw/code/screenshot/(2).png)
 
-![Screenshot 3](https://github.com/yaim0425/YAIM0425-d25b-fast-crafting/raw/code/screenshot/(3).png)
+![Screenshot 3](https://github.com/yaim0425/YAIM904-d25b-fast-crafting/raw/code/screenshot/(3).png)
 
-![Screenshot 4](https://github.com/yaim0425/YAIM0425-d25b-fast-crafting/raw/code/screenshot/(4).png)
+![Screenshot 4](https://github.com/yaim0425/YAIM904-d25b-fast-crafting/raw/code/screenshot/(4).png)
 
-![Screenshot 5](https://github.com/yaim0425/YAIM0425-d25b-fast-crafting/raw/code/screenshot/(5).png)
+![Screenshot 5](https://github.com/yaim0425/YAIM904-d25b-fast-crafting/raw/code/screenshot/(5).png)
 
-![Screenshot 6](https://github.com/yaim0425/YAIM0425-d25b-fast-crafting/raw/code/screenshot/(6).png)
+![Screenshot 6](https://github.com/yaim0425/YAIM904-d25b-fast-crafting/raw/code/screenshot/(6).png)
 
-![Screenshot 7](https://github.com/yaim0425/YAIM0425-d25b-fast-crafting/raw/code/screenshot/(7).png)
+![Screenshot 7](https://github.com/yaim0425/YAIM904-d25b-fast-crafting/raw/code/screenshot/(7).png)
 
-![Screenshot 8](https://github.com/yaim0425/YAIM0425-d25b-fast-crafting/raw/code/screenshot/(8).png)
+![Screenshot 8](https://github.com/yaim0425/YAIM904-d25b-fast-crafting/raw/code/screenshot/(8).png)
