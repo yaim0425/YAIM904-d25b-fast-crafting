@@ -1,5 +1,7 @@
 # YAIM904 d25b – Fast Crafting ⚡
 
+---
+
 ## 📦 Description
 
 **YAIM904 d25b – Fast Crafting** drastically reduces the crafting time of **all recipes** to the **minimum value allowed by Factorio**.
@@ -34,7 +36,7 @@ Once enabled, the effect is global and immediate.
 ## ⚠️ Warnings
 
 * 🚨 This MOD **significantly breaks game balance**
-* ⚡ Crafting speed bonuses, modules, and progression become mostly irrelevant
+* ⚡ Crafting speed bonuses, modules and progression become mostly irrelevant
 * ❌ Not recommended for:
 
   * Vanilla-balanced playthroughs
@@ -55,7 +57,7 @@ Once enabled, the effect is global and immediate.
 
 ## ❤️ Support
 
-Suggestions, ideas, and balance feedback are welcome on the GitHub repository.
+Suggestions, ideas and balance feedback are welcome on the GitHub repository.
 
 ---
 
